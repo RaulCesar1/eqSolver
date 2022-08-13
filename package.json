@@ -1,0 +1,10 @@
+{
+  "name": "eqSolver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RaulCesar1 <raulcesardeoliveira2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node test.js"
+  }
+}
